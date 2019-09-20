@@ -1,0 +1,4 @@
+name: textcolorizer
+type: module
+description: ‘Provides Twig Extension that process the Alt tag of any given image.’
+core: 8.x
